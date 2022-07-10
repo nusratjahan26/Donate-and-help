@@ -136,4 +136,108 @@ div#bg-color-two{
 div#bg-color-three{
     background-color: #FFF4D6;
 }
+.donate-program{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30px;
+}
+.donation-program{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.donation-program img{
+    height: 50%;
+    width: 50%;
+}
+.donation-program h1{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 50px;
+}
 
+
+.learn-more-btn{
+    background-color: orangered;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 37%;
+    margin-top: 100px;
+    position: absolute;
+
+}
+section.form-area{
+    margin-top: 300px;
+}
+h1.form-title{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -90px;
+    
+}
+p.form-description{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #707070;
+}
+.main-form{
+    width: 65%;
+    margin: auto;
+    height: 280px;
+    background-color: #FFF4D6;
+    margin-top: 100px;
+
+
+}
+input.subscribe{
+    margin-top: 110px;
+    margin-left: 237px;
+    padding: 14px 40px;
+    outline: none;
+    font-size: 25px;
+    background-color: #c4c4c4;
+    color: white;
+    border: none;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius:10px ;
+    position: absolute;
+    
+    
+}
+.subscribe-btn{
+    margin-top: 110px;
+    margin-left: 620px;
+    padding: 14px 40px;
+    outline: none;
+    font-size: 25px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+footer{
+    height: 300px;
+    background: #0B0D17;
+    margin-top: 200px;
+
+}
+footer h1{
+    color: white;
+    text-align: center;
+    padding-top: 125px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+footer p{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 15px;
+}
